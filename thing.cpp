@@ -8,5 +8,7 @@ int main()
     a = 111;
     b = 899;
 
+    c = a + b;
+
     cout << "Hello World!;
 }

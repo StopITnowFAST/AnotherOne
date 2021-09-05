@@ -10,5 +10,7 @@ int main()
 
     c = a + b;
 
-    cout << "Hello World!;
+    cout << "Hello World!";
+    cout << c;
+
 }
